@@ -1,5 +1,7 @@
 # Comprehensive-HR-Data-Analysis--Insights-from-Two-Decades-
 
+![Hr Analysis project dashboard](https://github.com/abhishekks2001/Comprehensive-HR-Data-Analysis--Insights-from-Two-Decades-/assets/156594626/82be636e-78cd-4cc8-8314-88e59aeda256)
+
 ### PROJECT OVERVIEW
 This project delves into a thorough examination of human resources (HR) data spanning two decades, from 2000 to 2020, leveraging SQL for data analysis and Power BI for visualization. Through meticulous analysis, cleaning, and querying of the dataset, a comprehensive understanding of various HR metrics such as gender, race, age distribution, location, tenure, and turnover rates across different departments was achieved.
 
